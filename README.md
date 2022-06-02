@@ -11,3 +11,5 @@ Results: describing the results your team is trying to achieve
 Discussion: explaining what would be the best outcome, what it would mean, what is next, etc.);
 
 References: a list containing at least three references, preferably peer-reviewed.
+
+Hello World! I am new to GitHub.
